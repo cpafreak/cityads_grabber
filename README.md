@@ -10,9 +10,9 @@ Nokogiri<br />
 ###Install
 
 ```
-gem install mechanize<br />
-gem install nokogiri<br />
-git clone https://github.com/cpafreak/cityads_grabber.git<br />
+gem install mechanize
+gem install nokogiri
+git clone https://github.com/cpafreak/cityads_grabber.git
 ```
 
 
